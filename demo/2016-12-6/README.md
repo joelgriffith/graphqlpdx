@@ -7,5 +7,5 @@ Super simple GraphQL example, with a single Type and Mutation... cars!
 Uses Node 6, so make sure you have it! Look up `nvm` if not.
 
 - `npm i`
-- `node index`
+- `npm start`
 - `http://localhost:4000`
